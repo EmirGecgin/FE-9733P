@@ -1,0 +1,11 @@
+export { default as Root } from "./root";
+export { default as ErrorPage } from "./error-page";
+export { default as UserPage, userLoader as UserPageLoader } from "./users-page";
+export { default as HomePage } from "./home-page";
+export { default as UserPageDetails, loader as UserDetailsLoader } from "./user-page-details";
+export { default as UserPostDetailsPage } from "./user-posts-page";
+export { default as UserAlbumsDetailsPage } from "./user-albums-page";
+export { default as UserTodosDetailsPage } from "./user-todos-page";
+export { default as PostDetails, loader as PostLoader } from "./post-details-page";
+export { default as AlbumsDetailsPage, loader as AlbumPhotosLoader } from "./albums-details-page";
+export { default as FavoritesPage } from "./favorites-page";
