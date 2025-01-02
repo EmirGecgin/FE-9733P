@@ -1,0 +1,1 @@
+Proje, hem React'in temel özelliklerini hem de gelişmiş araçlarını (React Router, Zustand, localStorage) öğrenmek ve uygulamak için bir temel oluşturur. Aynı zamanda, dinamik sayfa yönetimi, global state yönetimi, performans optimizasyonu ve kullanıcı etkileşimi konularında tecrübe kazandırmayı hedefler.
